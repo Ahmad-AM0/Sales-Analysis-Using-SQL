@@ -3,6 +3,8 @@
 ## Overview
 Analysis of customer behavior, retention, and lifetime value for an e-commerce company to improve customer retention and maximize revenue.
 
+I used the contoso_100k dataset which can be found [here](https://github.com/lukebarousse/Int_SQL_Data_Analytics_Course/releases/tag/v.0.0.0).
+
 ## Business Questions
 1. **Customer Segmentation:** Who are our most valuable customers?
 2. **Cohort Analysis:** How do different customer groups generate revenue?
