@@ -48,11 +48,11 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 - With both lowering LTV and decreasing customer acquisition, the company is facing a potential revenue decline.
 
 ### 3. Customer Retention
-🖥️ Query: [3_retention_analysis.sql](3_retention_analysis.sql)
-
 - Identified customers at risk of churning
 - Analyzed last purchase patterns
 - Calculated customer-specific metrics
+
+🖥️ Query: [3_retention_analysis.sql](3_retention_analysis.sql)
 
 **📈 Visualization:**
 
